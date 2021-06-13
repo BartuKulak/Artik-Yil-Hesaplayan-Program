@@ -10,7 +10,7 @@ Genel bir kural olarak, artık yıllar 4 rakamının katı olan yıllardır:
 Örneğin 1200, 1600, 2000 yılları artık yıldır ancak 1700, 1800 ve 1900 artık yıl değildir.
 Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni, bir astronomik yılın 365,25 gün değil, yaklaşık olarak 365,242 gün olmasından kaynaklanan hatayı gidermektir.
 ## Senaryolar
-###Senaryo 1
+### Senaryo 1
 ![senaryo1](senaryo1.jpg)
-###Senaryo 2
+### Senaryo 2
 ![senaryo2](senaryo2.jpg)
